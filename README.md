@@ -3,7 +3,7 @@ Ensemble d'outils pour Amiga écrit en Pascal (Turbo Pascal ou Free Pascal).
 
 <h2>Liste des fichiers</h2>
 
-Voici la liste des différents fichiers proposés dans ATARIST-TOOLS :
+Voici la liste des différents fichiers proposés dans AMIGA-TOOLS :
 
 <table>
 		<tr>
