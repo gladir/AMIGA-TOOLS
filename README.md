@@ -26,7 +26,7 @@ Sinon, vous pouvez également le compiler avec le Turbo Pascal à l'aide de la s
 
 <pre><b>tpc</b> <i>LEFICHIER.PAS</i></pre>
 	
-Par exemple, si vous voulez compiler DIRST.PAS, vous devrez tapez la commande suivante :
+Par exemple, si vous voulez compiler UNDISKAM.PAS, vous devrez tapez la commande suivante :
 
 <pre><b>fpc</b> UNDISKAM.PAS</pre>
 	
